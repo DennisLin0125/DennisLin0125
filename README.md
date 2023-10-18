@@ -135,7 +135,7 @@
 
 <!-- GitHub用戶的貢獻與活躍度 -->
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennislin0125&theme=dark" alt="dennislin0125" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennislin0125&" alt="dennislin0125" />
 </p> 
 
 <!--

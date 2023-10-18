@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **740125aa@gmail.com**
 
-- ⚡ Fun fact **I think I funny**
-
 <p align="left">
 </p>
 

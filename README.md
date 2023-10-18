@@ -133,7 +133,7 @@
 </p>
 
 <!-- GitHub 活動統計圖 -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--獎盃-->
 <div align="center"> 

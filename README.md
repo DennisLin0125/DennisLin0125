@@ -141,11 +141,7 @@
 </div>
 
 <!-- GitHub用戶的貢獻與活躍度 -->
-<!-- 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennislin0125&" alt="dennislin0125" />
-</p> 
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=graywhite&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)
 
 <!--
 **DennisLin0125/DennisLin0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,4 @@
-<h1 align="center"> 
-  <a> 
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);Have Nice Day!&center=true&size=27"> 
-  </a> 
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!-- 歡迎詞 -->
 <h1 align="center">Hi 👋, I'm DennisLin</h1>

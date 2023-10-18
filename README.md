@@ -18,7 +18,7 @@
 - 📫 How to reach me **740125aa@gmail.com**
 
 <!-- 程式 -->
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Languages:</h3>
 <p align="left">
   <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -36,6 +36,10 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
+  <!-- nodejs -->
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
+  </a>
 </p>
 
 <!-- 前端開發區 -->
@@ -71,23 +75,10 @@
   </a> 
 </p>
 
-<!-- 後端開發區 -->
-<h3 align="left">Backend Development:</h3>
+<!-- technology -->
+<h3 align="left">technology:</h3>
 <p align="left"> 
-  <!-- nodejs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <!-- express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-</p>
-
-<!-- 資料庫 -->
-<h3 align="left">Database:</h3>
-<p align="left">
-  <!-- mysql -->
+   <!-- mysql -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a>
@@ -103,11 +94,10 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
   </a> 
-</p>
-
-<!-- Devops -->
-<h3 align="left">Devops:</h3>
-<p align="left"> 
+  <!-- express -->
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+  </a>
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 

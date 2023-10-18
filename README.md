@@ -127,10 +127,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&hide_title=true&hide_border=false&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="dennislin0125" />
 </p>
 
-<div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=DennisLin0125&theme=xcode" /> 
-</div>
-
 <!-- GitHub用戶的貢獻與活躍度 -->
 <!-- 
 <p>

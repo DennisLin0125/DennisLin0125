@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+<!-- 打字特效 -->
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+To+My+GitHub;Have+Nice+Day+^_^)](https://git.io/typing-svg)
 
 <!-- 歡迎詞 -->
 <h1 align="center">Hi 👋, I'm DennisLin</h1>

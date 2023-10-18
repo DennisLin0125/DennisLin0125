@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennislin0125" alt="dennislin0125" /></a> </p>
-
 - 🔭 I’m currently working on [Vue.js](https://github.com/DennisLin0125/Vue3)
 
 - 🌱 I’m currently learning **Vue.js, React.js, Node.js**

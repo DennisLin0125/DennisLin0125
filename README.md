@@ -100,6 +100,32 @@
   </a> 
 </p>
 
+<!-- Devops -->
+<h3 align="left">Devops:</h3>
+<p align="left"> 
+  <!-- AWS -->
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+  </a> 
+  <!-- docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  </a> 
+</p>
+
+<!-- Backend as a Service -->
+<h3 align="left">Backend as a Service(BaaS):</h3>
+<p align="left"> 
+  <!-- firebase -->
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
+  </a> 
+  <!-- heroku -->
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
+  </a> 
+</p>
+
 <!-- 尚未整理 -->
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> 
@@ -107,21 +133,13 @@
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   </a> 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
+  
+
   
   
-  <!-- docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
+  
    
-  <!-- firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
+  
   <!-- flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
@@ -130,10 +148,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <!-- heroku -->
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
+  
    
   
   

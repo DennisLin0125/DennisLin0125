@@ -128,7 +128,7 @@
 </p>
 
 <div align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=dennislin0125&theme=xcode" /> 
+  <img src="https://activity-graph.herokuapp.com/graph?username=DennisLin0125&theme=xcode" /> 
 </div>
 
 <!-- GitHub用戶的貢獻與活躍度 -->

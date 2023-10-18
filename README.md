@@ -5,7 +5,7 @@
 <!--
 <h1 align="center">Hi 👋, I'm DennisLin</h1>
 -->
-<h1 align="center">A passionate frontend developer from Taiwan</h1>
+<h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed: </h1>
 
 <!-- 網站訪問人數 -->
 <p align="left"> 

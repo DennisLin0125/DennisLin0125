@@ -2,8 +2,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+DennisLin)](https://git.io/typing-svg)
 
 <!-- 歡迎詞 -->
+<!--
 <h1 align="center">Hi 👋, I'm DennisLin</h1>
-<h3 align="center">A passionate frontend developer from Taiwan</h3>
+-->
+<h1 align="center">A passionate frontend developer from Taiwan</h1>
 
 <!-- 網站訪問人數 -->
 <p align="left"> 

@@ -141,6 +141,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="dennislin0125" />
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- GitHub用戶的貢獻與活躍度 -->
 <!-- 
 <p>

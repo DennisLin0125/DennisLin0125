@@ -7,6 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
 </p>
 
+<div align="center"> 
+  <img src="https://metrics.lecoq.io/dennislin0125?template=classic&config.timezone=Asia%2FShanghai"> 
+</div>
 
 <!-- 個人興趣 -->
 - 🔭 I’m currently working on [Vue.js](https://github.com/DennisLin0125/Vue3)

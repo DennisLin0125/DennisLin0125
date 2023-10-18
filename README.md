@@ -117,7 +117,7 @@
 <!-- 程式種類統計 -->
 <p>
   <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&show_icons=true&locale=en&" alt="dennislin0125" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="dennislin0125" />
   <!-- 程式種類統計 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&show_icons=true&locale=en&layout=compact&" alt="dennislin0125" />
 </p>

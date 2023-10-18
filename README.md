@@ -25,7 +25,7 @@
 
 <!--獎盃-->
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=dennislin0125&column=3&margin-w=15&margin-h=15&theme=darkhub" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=dennislin0125&column=5&margin-w=15&margin-h=15&theme=darkhub" /> 
 </div>
 
 <!-- 個人興趣 -->

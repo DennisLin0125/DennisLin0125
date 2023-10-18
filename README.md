@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
     <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
     <img src="https://img.shields.io/badge/-C-oringe?style=flat-square&logo=c" /> 
-    <img src="https://img.shields.io/badge/-node-oringe?style=flat-square&logo=js" /> 
+    <img src="https://img.shields.io/badge/-python-oringe?style=flat-square&logo=python" /> 
   </span>
 </p>
 

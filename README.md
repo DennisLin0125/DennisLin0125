@@ -76,7 +76,7 @@
 </p>
 
 <!-- Technology -->
-<h3 align="left">technology:</h3>
+<h3 align="left">Technology:</h3>
 <p align="left"> 
    <!-- mysql -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
@@ -115,10 +115,10 @@
 
 <!-- 程式種類統計 -->
 <p>
-  <!-- 程式種類統計 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&show_icons=true&locale=en&layout=compact&" alt="dennislin0125" />
   <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&show_icons=true&locale=en&" alt="dennislin0125" />
+  <!-- 程式種類統計 -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&show_icons=true&locale=en&layout=compact&" alt="dennislin0125" />
 </p>
 
 <!-- GitHub用戶的貢獻與活躍度 -->

@@ -25,7 +25,7 @@
 
 <!--獎盃-->
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?usernamedennis&theme=darkhub" /> 
+  <img src="https://github-profile-trophy.vercel.app/?usernamedennislin0125&theme=darkhub" /> 
 </div>
 
 <!-- 個人興趣 -->

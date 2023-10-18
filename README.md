@@ -25,7 +25,7 @@
 
 <!--獎盃-->
 <div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=dennislin0125&theme=flat" /> 
 </div>
 
 <!-- 個人興趣 -->

@@ -84,15 +84,6 @@
   </a>
 </p>
 
-<!-- AI -->
-<h3 align="left">AI:</h3>
-<p align="left">
-  <!-- tensorflow -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
-  </a> 
-</p>
-
 <!-- 資料庫 -->
 <h3 align="left">Database:</h3>
 <p align="left">
@@ -117,6 +108,10 @@
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
   </a> 
+  <!-- linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
 </p>
 
 <!-- Backend as a Service -->
@@ -133,7 +128,7 @@
 </p>
 
 <!-- 尚未整理 -->
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Tool:</h3>
 <p align="left">
   <!-- flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
@@ -143,10 +138,7 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  <!-- linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
+  
   
 </p>
 

@@ -1,8 +1,14 @@
+<!-- 歡迎詞 -->
 <h1 align="center">Hi 👋, I'm DennisLin</h1>
 <h3 align="center">A passionate frontend developer from Taiwan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> </p>
+<!-- 網站訪問人數 -->
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
+</p>
 
+
+<!-- 個人興趣 -->
 - 🔭 I’m currently working on [Vue.js](https://github.com/DennisLin0125/Vue3)
 
 - 🌱 I’m currently learning **Vue.js, React.js, Node.js**
@@ -128,18 +134,7 @@
 
 <!-- 尚未整理 -->
 <h3 align="left">Programming Languages:</h3>
-<p align="left"> 
-  <!-- arduino -->
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-  </a> 
-  
-
-  
-  
-  
-   
-  
+<p align="left">
   <!-- flask -->
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
@@ -148,38 +143,27 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a> 
-  
-   
-  
-  
   <!-- linux -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   
-  
-  
-  
-  <!-- pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
-  </a> 
-   
-  <!-- selenium -->
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
-  </a> 
-  
-  
 </p>
 
+<!-- 程式種類統計 -->
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&show_icons=true&locale=en&layout=compact&"       alt="dennislin0125" />
 </p> 
 
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&show_icons=true&locale=en&" alt="dennislin0125" /></p> -->
+<!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&show_icons=true&locale=en&" alt="dennislin0125" />
+</p> 
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennislin0125&theme=dark" alt="dennislin0125" /></p>  -->
+<!-- GitHub用戶的貢獻與活躍度 -->
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dennislin0125&theme=dark" alt="dennislin0125" />
+</p> 
 
 <!--
 **DennisLin0125/DennisLin0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -66,7 +66,7 @@
 </p>
 
 <!-- 後端開發區 -->
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Backend Development:</h3>
 <p align="left"> 
   <!-- nodejs -->
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
@@ -79,7 +79,7 @@
 </p>
 
 <!-- AI -->
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">AI:</h3>
 <p align="left">
   <!-- tensorflow -->
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
@@ -88,7 +88,7 @@
 </p>
 
 <!-- 資料庫 -->
-<h3 align="left">Programming Languages:</h3>
+<h3 align="left">Database:</h3>
 <p align="left">
   <!-- mysql -->
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 

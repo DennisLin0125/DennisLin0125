@@ -28,10 +28,11 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React)](https://github.com/anuraghazra/github-readme-stats)
 
+<h3 align="left">🔭 🌱 I’m currently learning:</h3>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Mongodb_Nodejs)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- 個人興趣 -->
-- 🌱 I’m currently learning **Vue.js, React.js, Node.js**
-
 - 💬 Ask me about **Vue.js, C, Python**
 
 - 📫 How to reach me **740125aa@gmail.com**

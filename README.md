@@ -31,8 +31,8 @@
 <!-- 目前學習 -->
 <h3 align="left">🌱 I’m currently learning:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js)](https://github.com/DennisLin0125/MongoDB_Node_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise)](https://github.com/DennisLin0125/Promise)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=tokyonight)](https://github.com/DennisLin0125/MongoDB_Node_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=tokyonight)](https://github.com/DennisLin0125/Promise)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennisLin)](https://https://github.com/DennisLin0125)
 

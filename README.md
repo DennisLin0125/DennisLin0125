@@ -62,6 +62,15 @@
       <img src="svg/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="svg/metrics.plugin.achievements.compact.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+      <img src="svg/metrics.plugin.skyline.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
 </table>
 
 <!--START_SECTION:waka-->
@@ -181,13 +190,13 @@
   </a> 
 </p>
 
-<div align="center">
+<div align="left">
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennisLin)](https://https://github.com/DennisLin0125)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennislin)](https://https://github.com/DennisLin0125)
 
 </div>
 
-<div align="center">
+<div align="left">
 
 <!-- GitHub用戶的貢獻與活躍度 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)
@@ -195,7 +204,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
   <p>
     <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&hide_title=true&hide_border=true&show_icons=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="dennislin0125" />

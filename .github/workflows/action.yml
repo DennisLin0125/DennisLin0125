@@ -1,0 +1,42 @@
+name: GitHub Metrics
+on:
+  # Schedule updates (each hour)
+  schedule:
+    - cron: "0 0 * * *"
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push:
+    branches: ["master", "main"]
+
+env:
+  GH_TOKEN: ${{ secrets.GH_TOKEN }}
+  USER_NAME: DennisLin0125
+  CONFIG_TIMEZONE: Etc/GMT-8
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: /svg/github-metrics.svg
+          token: ${{ env.GH_TOKEN }}
+          user: ${{ env.USER_NAME }}
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: ${{ env.CONFIG_TIMEZONE }}
+
+      - name: Comment Reactions
+        uses: lowlighter/metrics@latest
+        with:
+          filename: /svg/metrics.plugin.reactions.svg
+          token: ${{ env.GH_TOKEN }}
+          user: ${{ env.USER_NAME }}
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          plugin_reactions_details: percentage
+          config_timezone: ${{ env.CONFIG_TIMEZONE }}

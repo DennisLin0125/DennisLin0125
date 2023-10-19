@@ -1,23 +1,16 @@
-# Visit https://github.com/lowlighter/metrics#-documentation for full reference
-name: Metrics
-on:
-  # Schedule updates (each hour)
-  schedule: [{cron: "0 0 * * *"}]
-  # Lines below let you run workflow manually and on each commit
-  workflow_dispatch:
-  # push: {branches: ["master", "main"]}
-jobs:
-  github-metrics:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    steps:
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.GH_TOKEN }}
+name: Waka Readme
 
-          # Options
-          user: DennisLin0125
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: Etc/GMT-8
+on:
+  schedule:
+    # Runs at 12am IST
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  update-readme:
+    name: Update Readme with Metrics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}

@@ -17,10 +17,28 @@
 <!-- GitHub 活動統計圖 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<table>
+  <tr>
+    <th>Header 1</th>
+    <th>Header 2</th>
+  </tr>
+  <tr>
+    <td>
+      <!-- 貼上個人的github資訊 -->
+      <img src="svg/github-metrics.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>Row 2, Column 1</td>
+    <td>Row 2, Column 2</td>
+  </tr>
+</table>
+
+
 <!-- 貼上個人的github資訊 -->
-<p align="center">
+<!-- <p align="center">
   <img src="svg/github-metrics.svg" alt="Metrics" width="400">
-</p>
+</p> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->

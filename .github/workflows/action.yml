@@ -22,7 +22,7 @@ jobs:
       - name: Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: /svg/github-metrics.svg
+          filename: svg/github-metrics.svg
           token: ${{ env.GH_TOKEN }}
           user: ${{ env.USER_NAME }}
           template: classic
@@ -32,7 +32,7 @@ jobs:
       - name: Comment Reactions
         uses: lowlighter/metrics@latest
         with:
-          filename: /svg/metrics.plugin.reactions.svg
+          filename: svg/metrics.plugin.reactions.svg
           token: ${{ env.GH_TOKEN }}
           user: ${{ env.USER_NAME }}
           base: ""

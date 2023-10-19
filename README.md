@@ -28,6 +28,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3)](https://github.com/DennisLin0125/Vue3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React)](https://github.com/DennisLin0125/React)
 
+<!-- 目前學習 -->
 <h3 align="left">🌱 I’m currently learning:</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js)](https://github.com/DennisLin0125/MongoDB_Node_js)

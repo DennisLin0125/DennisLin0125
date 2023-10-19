@@ -34,7 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js)](https://github.com/DennisLin0125/MongoDB_Node_js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise)](https://github.com/DennisLin0125/Promise)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennislin0125)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennisLin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 個人興趣 -->
 - 💬 Ask me about **Vue.js, C, Python**

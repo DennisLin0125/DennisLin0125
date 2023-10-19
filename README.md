@@ -137,7 +137,7 @@
 </p>
 
 <!-- GitHub用戶的貢獻與活躍度 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=swift&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)
 
 <!-- 程式種類統計 -->
 <p>

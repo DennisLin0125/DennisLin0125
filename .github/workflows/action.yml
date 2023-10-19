@@ -45,7 +45,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: svg/metrics.plugin.stars.svg
-          token: ${{ env.CONFIG_TIMEZONE }}
+          token: ${{ env.GH_TOKEN }}
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 3

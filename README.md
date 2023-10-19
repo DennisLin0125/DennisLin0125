@@ -53,20 +53,20 @@
       <img src="svg/metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="svg/metrics.plugin.stars.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+      <img src="svg/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
 </table>
-
-
-<!-- 貼上個人的github資訊 -->
-<!-- <p align="center">
-  <img src="svg/github-metrics.svg" alt="Metrics" width="400">
-</p> -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--
-![Metrics](https://metrics.lecoq.io/DennisLin0125?template=classic&stars=1&habits=1&followup=1&people=1&achievements=1&isocalendar=1&languages=1&lines=1&gists=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&gists=false&config.timezone=Etc%2FGMT-8)
--->
 
 <!-- 特色專案 -->
 <h3 align="left">🔭 I’m currently working on:</h3>
@@ -80,7 +80,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia)](https://github.com/DennisLin0125/MongoDB_Node_js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia)](https://github.com/DennisLin0125/Promise)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennisLin)](https://https://github.com/DennisLin0125)
 
 <!-- 個人興趣 -->
 - 💬 Ask me about **Vue.js, C, Python**
@@ -182,26 +181,38 @@
   </a> 
 </p>
 
-<!-- github按讚 -->
-<!-- <p align="center">
-  <img src="svg/metrics.plugin.reactions.svg" alt="Metrics" width="400">
-</p> -->
+<div align="center">
+
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennisLin)](https://https://github.com/DennisLin0125)
+
+</div>
+
+<div align="center">
 
 <!-- GitHub用戶的貢獻與活躍度 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)
 
+</div>
+
+
+<div align="center">
+  <p>
+    <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&hide_title=true&hide_border=true&show_icons=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="dennislin0125" />
+    <!-- 程式種類統計 -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&hide_title=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="dennislin0125" />
+  </p>
+</div>
 <!-- 程式種類統計 -->
-<p>
-  <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&hide_title=true&hide_border=true&show_icons=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="dennislin0125" />
-  <!-- 程式種類統計 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&hide_title=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="dennislin0125" />
-</p>
+
 
 <!--獎盃-->
 <div align="center"> 
   <img src="https://github-profile-trophy.vercel.app/?username=dennislin0125&column=-1&theme=darkhub" /> 
 </div>
+
+
+
 
 <!--
 **DennisLin0125/DennisLin0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

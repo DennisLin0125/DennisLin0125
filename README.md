@@ -83,10 +83,6 @@
 </table>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2055%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-885-blue)
-
 **I'm a Night 🦉** 
 
 ```text
@@ -127,24 +123,8 @@ VS Code                  2 hrs 11 mins       ███████████�
 Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
-**I Mostly Code in Python** 
 
-```text
-JavaScript               8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-Less                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-EJS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/DennisLin0125/DennisLin0125/master/assets/bar_graph.png)
-
-
- Last Updated on 19/10/2023 08:12:59 UTC
+ Last Updated on 19/10/2023 09:19:11 UTC
 <!--END_SECTION:waka-->
 
 

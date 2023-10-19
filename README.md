@@ -19,8 +19,8 @@
 
 <table>
   <tr>
-    <th>Header 1</th>
-    <th>Header 2</th>
+    <th>About Me</th>
+    <th>My Tool</th>
   </tr>
   <tr>
     <td>
@@ -28,7 +28,7 @@
       <img src="svg/github-metrics.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <!-- 貼上個人的github資訊 -->
+      <!-- 貼上個人常用的程式資訊 -->
       <img src="svg/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
     </td>
   </tr>

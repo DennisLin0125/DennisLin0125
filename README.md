@@ -27,10 +27,10 @@
       <!-- 貼上個人的github資訊 -->
       <img src="svg/github-metrics.svg" alt="Metrics" width="400">
     </td>
-  </tr>
-  <tr>
-    <td>Row 2, Column 1</td>
-    <td>Row 2, Column 2</td>
+    <td>
+      <!-- 貼上個人的github資訊 -->
+      <img src="svg/metrics.plugin.stars.svg" alt="Metrics" width="400">
+    </td>
   </tr>
 </table>
 

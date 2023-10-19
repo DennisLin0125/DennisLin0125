@@ -19,10 +19,6 @@
 
 <table>
   <tr>
-    <th>About Me</th>
-    <th>My Tool</th>
-  </tr>
-  <tr>
     <td>
       <!-- 貼上個人的github資訊 -->
       <img src="svg/github-metrics.svg" alt="Metrics" width="400">

@@ -23,7 +23,7 @@
       <img src="svg/github-metrics.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="svg/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.languages.indepth.svg" alt="Metrics" width="400">
     </td>
   </tr>
 
@@ -32,7 +32,8 @@
       <img src="svg/metrics.plugin.reactions.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="svg/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
+      <!-- <img src="svg/metrics.plugin.languages.recent.svg" alt="Metrics" width="400"> -->
+      <img src="svg/followup.indepth.svg" alt="Metrics" width="400">
     </td>
   </tr>
 

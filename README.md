@@ -20,7 +20,6 @@
 <!-- 貼上個人的github資訊 -->
 <p align="center">
   <img src="/github-metrics.svg" alt="Metrics" width="400">
-  <img src="/metrics.plugin.reactions.svg" alt="Metrics" width="400">
 </p>
 
 <!--START_SECTION:waka-->
@@ -142,6 +141,11 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
+</p>
+
+<!-- github按讚 -->
+<p align="center">
+  <img src="/metrics.plugin.reactions.svg" alt="Metrics" width="400">
 </p>
 
 <!-- GitHub用戶的貢獻與活躍度 -->

@@ -2,9 +2,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+DennisLin)](https://git.io/typing-svg)
 
 <!-- 歡迎詞 -->
-<!--
-<h1 align="center">Hi 👋, I'm DennisLin</h1>
--->
 <h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1>
 
 <!-- 網站訪問人數 -->
@@ -16,6 +13,9 @@
     <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> 
   </span>
 </p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- GitHub 活動統計圖 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)

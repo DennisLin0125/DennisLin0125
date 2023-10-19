@@ -20,12 +20,19 @@
 <table>
   <tr>
     <td>
-      <!-- 貼上個人的github資訊 -->
       <img src="svg/github-metrics.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <!-- 貼上個人常用的程式資訊 -->
       <img src="svg/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="svg/metrics.plugin.reactions.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+      <img src="svg/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
     </td>
   </tr>
 </table>
@@ -158,9 +165,9 @@
 </p>
 
 <!-- github按讚 -->
-<p align="center">
+<!-- <p align="center">
   <img src="svg/metrics.plugin.reactions.svg" alt="Metrics" width="400">
-</p>
+</p> -->
 
 <!-- GitHub用戶的貢獻與活躍度 -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)

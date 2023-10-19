@@ -143,7 +143,7 @@
   <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&hide_title=true&hide_border=true&show_icons=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="dennislin0125" />
   <!-- 程式種類統計 -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="dennislin0125" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennislin0125&hide_title=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" alt="dennislin0125" />
 </p>
 
 <!--獎盃-->

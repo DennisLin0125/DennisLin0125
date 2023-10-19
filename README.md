@@ -72,6 +72,15 @@
       <img src="svg/metrics.plugin.repositories.pinned.svg" alt="Metrics" width="400">
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="svg/stargazers.chartist.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+      <img src="svg/followup.indepth.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
 </table>
 
 <!--START_SECTION:waka-->

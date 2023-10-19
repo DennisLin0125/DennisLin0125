@@ -17,6 +17,11 @@
 <!-- GitHub 活動統計圖 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- 貼上個人的github資訊 -->
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+</p>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

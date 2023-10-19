@@ -171,7 +171,6 @@ Windows                  2 hrs 11 mins       ███████████�
 
 <!-- 程式 -->
 <h3 align="left">🧠 Languages:</h3>
-<p align="left">
   <!-- C -->
   ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) 
   <!-- C++ -->
@@ -188,7 +187,7 @@ Windows                  2 hrs 11 mins       ███████████�
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
-</p>
+
 
 <!-- 前端開發區 -->
 <h3 align="left">Frontend Development:</h3>

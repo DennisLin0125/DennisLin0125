@@ -35,6 +35,15 @@
       <img src="svg/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
     </td>
   </tr>
+
+  <tr>
+    <td>
+      <img src="svg/metrics.plugin.activity.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+      <img src="svg/metrics.plugin.calendar.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
 </table>
 
 

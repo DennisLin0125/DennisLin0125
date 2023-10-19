@@ -15,6 +15,13 @@
   </span>
 </p>
 
+<!-- 貪食蛇 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+</picture>
+
 <!-- GitHub 活動統計圖 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

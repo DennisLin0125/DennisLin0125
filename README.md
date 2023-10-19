@@ -5,21 +5,15 @@
 <h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1>
 
 <!-- 網站訪問人數 -->
-<p align="left"> 
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
-  <span >
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
-    <img src="https://img.shields.io/badge/javascript-blue?logo=javascript" /> 
-    <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" /> 
-  </span>
 </p>
 
 <!-- 貪食蛇 -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://dennislin0125.github.io/asset/svg/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://dennislin0125.github.io/asset/svg/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://dennislin0125.github.io/asset/svg/github-contribution-grid-snake-dark.svg" />
 </picture>
 
 <!-- wakatime -->
@@ -164,116 +158,90 @@ Windows                  2 hrs 11 mins       ███████████�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia)](https://github.com/DennisLin0125/Promise)
 
 
-<!-- 個人興趣 -->
-- 💬 Ask me about **Vue.js, C, Python**
-
-- 📫 How to reach me **740125aa@gmail.com**
+<!-- just img  -->
+<p align="center">
+  <!-- 重訓 -->
+  <img src="https://dennislin0125.github.io/asset/myPng/man.png" alt="Man" width="250" height="250" />
+  <!-- 獎盃 -->
+  <img width="150" src="https://dennislin0125.github.io/asset/myGif/beker.gif" />
+</p>
 
 <!-- 程式 -->
-<h3 align="left">🧠 Languages:</h3>
-  <!-- C -->
-  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat) 
-  <!-- C++ -->
-  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat) 
-  <!-- javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" /> 
-  </a> 
-  <!-- python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <!-- nodejs -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-
-
+<h3 align="center">💪 Currently learning:</h3>
+<p align="center"> 
+  <span >
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" /> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
+    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" /> 
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" /> 
+    <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
+  </span>
+</p>
+   
 <!-- 前端開發區 -->
-<h3 align="left">Frontend Development:</h3>
-<p align="left"> 
-  <!-- Vue -->
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
-  </a> 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-  <!-- redux -->
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-  </a>
-  <!-- CSS -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <!-- bootstrap -->
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  
-  <!-- html5 -->
-  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-  
-  <!-- webpack -->
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> 
-  </a> 
+<h3 align="center">🧠 plan study:</h3>
+<p align="center">
+  <span>
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
+  </span> 
 </p>
 
-<!-- Technology -->
-<h3 align="left">Technology:</h3>
-<p align="left"> 
-   <!-- mysql -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <!-- mongodb -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <!-- firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <!-- heroku -->
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-  </a> 
-  <!-- express -->
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <!-- docker -->
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <!-- linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> 
+<!-- Commonly used tools -->
+<h3 align="center">🧰 Commonly used tools:</h3>
+<p align="center"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flatt" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
+    <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+    <!-- svg -->
+    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+    <!-- gif -->
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/html.webp">
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/cssgif.webp">
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/vscode.webp">
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/react.webp">
+    <img height="95" width="95" src="https://dennislin0125.github.io/asset/webp/vue.webp">
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/python.webp">
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/js.webp">
+    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/github.webp">
 </p>
 
-<div align="left">
-
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dennislin)](https://https://github.com/DennisLin0125)
+<div align="center">
+  <!-- 鴨子 -->
+  <img width="150" src="https://dennislin0125.github.io/asset/myGif/myDuck.gif" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=dennislin">
+  <!-- 鴨子 -->
+  <img width="150" src="https://dennislin0125.github.io/asset/myGif/myDuck.gif" />
 
 </div>
 
-<div align="left">
-
-<!-- GitHub用戶的貢獻與活躍度 -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488)](https://git.io/streak-stats)
-
+<div align="center">
+  <img width="150" src="https://dennislin0125.github.io/asset/myPng/left.png" />
+  <img width="488" src="https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488" />
+  <img width="150" src="https://dennislin0125.github.io/asset/myPng/right.png" />
 </div>
 
 
-<div align="left">
+<div align="center">
   <p>
     <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=dennislin0125&hide_title=true&hide_border=true&show_icons=true&line_height=20&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" alt="dennislin0125" />

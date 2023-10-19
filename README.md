@@ -29,7 +29,7 @@
     </td>
     <td>
       <!-- 貼上個人的github資訊 -->
-      <img src="svg/metrics.plugin.stars.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.languages.details.svg" alt="Metrics" width="400">
     </td>
   </tr>
 </table>

@@ -8,7 +8,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
   <span > 
-    <img src="https://badgen.net/#https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai" />
+    <img src="https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai" />
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
     <img src="https://img.shields.io/badge/javascript-blue?logo=javascript" /> 

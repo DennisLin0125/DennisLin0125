@@ -140,15 +140,16 @@ jobs:
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
 
-      - name: GitHub Skyline
+      - name: Pinned repositories
         uses: lowlighter/metrics@latest
         with:
-          filename: svg/metrics.plugin.skyline.svg
-          token: NOT_NEEDED
+          filename: svg/metrics.plugin.repositories.pinned.svg
+          token: ${{ env.GH_TOKEN }}
           base: ""
-          plugin_skyline: yes
-          plugin_skyline_year: 2020
-          plugin_skyline_frames: 6
-          plugin_skyline_quality: 1
+          plugin_repositories: yes
+          plugin_repositories_pinned: 2
+          
+
+        
       
       

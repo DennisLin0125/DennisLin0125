@@ -68,7 +68,7 @@
       <img src="svg/metrics.plugin.achievements.compact.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="svg/metrics.plugin.skyline.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.repositories.pinned.svg" alt="Metrics" width="400">
     </td>
   </tr>
 </table>

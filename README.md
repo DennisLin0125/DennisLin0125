@@ -25,8 +25,8 @@
 <!-- 特色專案 -->
 <h3 align="left">🔭 I’m currently working on:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/DennisLin0125/Vue3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite)](https://github.com/DennisLin0125/React)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&theme=dark)](https://github.com/DennisLin0125/Vue3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=dark)](https://github.com/DennisLin0125/React)
 
 <!-- 目前學習 -->
 <h3 align="left">🌱 I’m currently learning:</h3>

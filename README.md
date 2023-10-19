@@ -41,7 +41,16 @@
       <img src="svg/metrics.plugin.activity.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="svg/metrics.plugin.calendar.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.calendar.full.svg" alt="Metrics" width="400">
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <img src="svg/metrics.plugin.wakatime.svg" alt="Metrics" width="400">
+    </td>
+    <td>
+      <img src="svg/metrics.plugin.habits.charts.svg" alt="Metrics" width="400">
     </td>
   </tr>
 </table>

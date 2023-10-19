@@ -88,12 +88,35 @@ jobs:
           plugin_activity_days: 0
           plugin_activity_filter: push, pr, public, fork, review, ref/create
 
-      - name: Current year calendar
+      - name: Full history calendar
         uses: lowlighter/metrics@latest
         with:
-          filename: svg/metrics.plugin.calendar.svg
+          filename: svg/metrics.plugin.calendar.full.svg
           token: ${{ env.GH_TOKEN }}
           base: ""
           plugin_calendar: yes
+          plugin_calendar_limit: 0
+
+      - name: WakaTime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+      
+      - name: Recent activity charts
+        uses: lowlighter/metrics@latest
+        with:
+          filename: svg/metrics.plugin.habits.charts.svg
+          token: ${{ env.GH_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/Paris
+      
       
       

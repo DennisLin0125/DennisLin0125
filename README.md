@@ -1,13 +1,19 @@
-<!-- 打字特效 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+DennisLin)](https://git.io/typing-svg)
+<!--Number of visits-->
+<h2>Visits</h2>
+<div align="left">
+  <!-- 網站訪問人數 -->
+  <img src="https://profile-counter.glitch.me/dennislin0125/count.svg">
+  <!-- 網站訪問人數 -->
+  <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
+</div>
 
 <!-- 歡迎詞 -->
 <h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1>
 
-<!-- 網站訪問人數 -->
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
-</p>
+<!-- 打字特效 -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+DennisLin">
+</div>
 
 <!-- 貪食蛇 -->
 <picture>

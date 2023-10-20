@@ -5,7 +5,7 @@
   <!-- 網站訪問人數 -->
   <!-- <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" />  -->
   <!-- 貓咪 -->
-  <img align="right" width="150" src="https://dennislin0125.github.io/asset/myGif/hacker_a.gif" />
+  <img align="right" width="" height="150" src="https://dennislin0125.github.io/asset/myGif/hacker_a.gif" />
 </div>
 
 
@@ -202,7 +202,7 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
+    <!-- <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" /> -->
   </span>
 </p>
    

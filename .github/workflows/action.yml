@@ -12,6 +12,9 @@ env:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
     steps:
       - name: Metrics
         uses: lowlighter/metrics@latest

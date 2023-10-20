@@ -7,7 +7,7 @@
   <!-- 貓咪 -->
   <!-- <img align="right" width="" height="150" src="https://dennislin0125.github.io/asset/myGif/hacker_a.gif" /> -->
   <!-- 打程式 -->
-  <img align="right" width="" height="150" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
+  <img align="right" width="" height="180" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
 </div>
 
 

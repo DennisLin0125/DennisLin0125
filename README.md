@@ -189,11 +189,12 @@ Windows                  2 hrs 11 mins       ███████████�
   <img width="150" src="https://dennislin0125.github.io/asset/myGif/beker.gif" />
 </p>
 
-<!-- 程式 -->
-<h3 align="center">💪 Currently learning:</h3>
 <code>
     <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 </code>
+
+<!-- 程式 -->
+<h3 align="center">💪 Currently learning:</h3>
 <p align="center"> 
   <span >
     <!-- <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />

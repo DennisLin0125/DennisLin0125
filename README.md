@@ -1,12 +1,11 @@
 <!--Number of visits-->
-<h2>Visits</h2>
 <div align="left">
   <!-- 網站訪問人數 -->
-  <img src="https://profile-counter.glitch.me/dennislin0125/count.svg">
+  <img src="https://profile-counter.glitch.me/dennislin0125/count.svg">views
   <!-- 網站訪問人數 -->
-  <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
-  <!-- 鴨子 -->
-  <img align="right" width="150" src="https://dennislin0125.github.io/asset/myGif/myDuck.gif" />
+  <!-- <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" />  -->
+  <!-- 貓咪 -->
+  <img align="right" width="150" src="https://dennislin0125.github.io/asset/myGif/hacker_a.gif" />
 </div>
 
 
@@ -15,7 +14,7 @@
 <!-- <h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1> -->
 
 <!-- 打字特效 -->
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&random=false&width=435&lines=Welcome+to+my+github+%F0%9F%98%84;Hi+%F0%9F%91%8B%2C+I'm+DennisLin">
 </div>
 
@@ -203,7 +202,7 @@ Windows                  2 hrs 11 mins       ███████████�
 </p>
    
 <!-- 前端開發區 -->
-<h3 align="center">🧠 plan study:</h3>
+<h3 align="center">🧠 Plan study:</h3>
 <p align="center">
   <span>
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
@@ -220,9 +219,9 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flatt" />
     <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" />
+    <!-- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" /> -->
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,nodejs,python,git,vuejs,react,webpack,vite,ts,mongodb,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,nodejs,python,git,vuejs,react,webpack,vite,ts,mongodb,mysql,vim" /><br>
     <!-- svg -->
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -258,8 +257,10 @@ Windows                  2 hrs 11 mins       ███████████�
 </div>
 
 <div align="center">
+  <!-- 左翅膀  -->
   <img width="150" src="https://dennislin0125.github.io/asset/myPng/left.png" />
   <img width="488" src="https://streak-stats.demolab.com?user=dennislin0125&theme=apprentice&date_format=j%20M%5B%20Y%5D&card_width=488" />
+  <!-- 右翅膀  -->
   <img width="150" src="https://dennislin0125.github.io/asset/myPng/right.png" />
 </div>
 

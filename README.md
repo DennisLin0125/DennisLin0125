@@ -5,7 +5,7 @@
   <!-- 網站訪問人數 -->
   <!-- <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" />  -->
 
-  <!-- 打程式 -->
+  <!-- 打程式人 -->
   <img align="right" width="" height="180" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
 </div>
 
@@ -44,6 +44,8 @@
 <!-- GitHub 活動統計圖 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+<!-- 展示 table-->
 <table>
   <tr>
     <td>
@@ -163,23 +165,15 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=algolia" />
 </p>
 
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&theme=algolia)](https://github.com/DennisLin0125/Vue3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=algolia)](https://github.com/DennisLin0125/React) -->
-
 <!-- 目前學習 -->
-<!-- <h3 align="left">🌱 I’m currently learning:</h3>
+<h3 align="left">🌱 Recently completed projects:</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia" />
-</p> -->
+</p>
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia)](https://github.com/DennisLin0125/MongoDB_Node_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia)](https://github.com/DennisLin0125/Promise) -->
-
-
-<!-- just img  -->
+<!-- 動畫  -->
 <p align="center">
   <!-- 重訓 -->
   <!-- <img src="https://dennislin0125.github.io/asset/myPng/man.png" alt="Man" width="250" height="250" /> -->
@@ -189,7 +183,7 @@ Windows                  2 hrs 11 mins       ███████████�
   <img width="150" src="https://dennislin0125.github.io/asset/myGif/beker.gif" />
 </p>
 
-<!-- 程式 -->
+<!-- 💪 Often use: -->
 <h3 align="center">💪 Often use:</h3>
 <p align="center"> 
   <span >
@@ -209,7 +203,7 @@ Windows                  2 hrs 11 mins       ███████████�
   </span>
 </p>
    
-<!-- 前端開發區 -->
+<!-- 🧠 Languages -->
 <h3 align="center">🧠 Languages:</h3>
 <p align="center">
   <span>
@@ -229,7 +223,7 @@ Windows                  2 hrs 11 mins       ███████████�
   </span> 
 </p>
 
-<!-- Commonly used tools -->
+<!--🧰 Commonly used tools -->
 <h3 align="center">🧰 Commonly used tools:</h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flatt" />

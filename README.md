@@ -191,12 +191,12 @@ Windows                  2 hrs 11 mins       ███████████�
 
 <!-- 程式 -->
 <h3 align="center">💪 Currently learning:</h3>
+<code>
+    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+</code>
 <p align="center"> 
   <span >
-  <code>
-    <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  </code>
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+    <!-- <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" /> 
@@ -207,7 +207,7 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" /> -->
     <!-- <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" /> -->
   </span>
 </p>

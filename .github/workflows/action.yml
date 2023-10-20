@@ -1,23 +1,17 @@
 name: GitHub Metrics
 on:
-  # Schedule updates (each hour)
   schedule:
     - cron: "0 0 * * *"
-  # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # push:
-  #   branches: ["master", "main"]
-
+  
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
   USER_NAME: DennisLin0125
-  CONFIG_TIMEZONE: Etc/GMT-8
+  CONFIG_TIMEZONE: Asia/Shanghai
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
     steps:
       - name: Metrics
         uses: lowlighter/metrics@latest

@@ -190,7 +190,7 @@ Windows                  2 hrs 11 mins       ███████████�
 </p>
 
 <!-- 程式 -->
-<h3 align="center">💪 languages and tools:</h3>
+<h3 align="center">💪 Often use:</h3>
 <p align="center"> 
   <span >
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -203,7 +203,16 @@ Windows                  2 hrs 11 mins       ███████████�
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
     <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-    <!-- <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+    <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  </span>
+</p>
+   
+<!-- 前端開發區 -->
+<h3 align="center">🧠 Languages:</h3>
+<p align="center">
+  <span>
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" /> 
@@ -214,51 +223,43 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" /> -->
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
     <!-- <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" /> -->
-  </span>
-</p>
-   
-<!-- 前端開發區 -->
-<!-- <h3 align="center">🧠 Plan study:</h3>
-<p align="center">
-  <span>
-    
   </span> 
-</p> -->
+</p>
 
 <!-- Commonly used tools -->
 <h3 align="center">🧰 Commonly used tools:</h3>
 <p align="center"> 
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flatt" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
-    <!-- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" /> -->
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
-    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,nodejs,python,git,vuejs,react,webpack,vite,ts,mongodb,mysql,vim" /><br>
-    <!-- svg -->
-    <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
-    <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
-    <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br> -->
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
-    <!-- gif -->
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/html.webp">
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/cssgif.webp">
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/vscode.webp">
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/react.webp">
-    <img height="95" width="95" src="https://dennislin0125.github.io/asset/webp/vue.webp">
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/python.webp">
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/js.webp">
-    <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/github.webp">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flatt" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
+  <!-- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" /> -->
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,javascript,nodejs,python,git,vuejs,react,webpack,vite,ts,mongodb,mysql,vim" /><br>
+  <!-- svg -->
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+  <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br> -->
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
+  <!-- gif -->
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/html.webp">
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/cssgif.webp">
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/vscode.webp">
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/react.webp">
+  <img height="95" width="95" src="https://dennislin0125.github.io/asset/webp/vue.webp">
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/python.webp">
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/js.webp">
+  <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/github.webp">
 </p>
 
 <div align="center">

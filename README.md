@@ -155,7 +155,7 @@ Windows                  2 hrs 11 mins       ███████████�
 
 
 <!-- 特色專案 -->
-<h3 align="left">🔭 I’m currently working on:</h3>
+<h3 align="left">🔭 Currently working on:</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&theme=algolia" />
@@ -167,12 +167,12 @@ Windows                  2 hrs 11 mins       ███████████�
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=algolia)](https://github.com/DennisLin0125/React) -->
 
 <!-- 目前學習 -->
-<h3 align="left">🌱 I’m currently learning:</h3>
+<!-- <h3 align="left">🌱 I’m currently learning:</h3>
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia" />
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia" />
-</p>
+</p> -->
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia)](https://github.com/DennisLin0125/MongoDB_Node_js)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia)](https://github.com/DennisLin0125/Promise) -->
@@ -190,6 +190,8 @@ Windows                  2 hrs 11 mins       ███████████�
 <h3 align="center">💪 Currently learning:</h3>
 <p align="center"> 
   <span >
+    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /> 
     <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" /> 
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
@@ -198,20 +200,19 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
   </span>
 </p>
    
 <!-- 前端開發區 -->
-<h3 align="center">🧠 Plan study:</h3>
+<!-- <h3 align="center">🧠 Plan study:</h3>
 <p align="center">
   <span>
-    <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" />
+    
   </span> 
-</p>
+</p> -->
 
 <!-- Commonly used tools -->
 <h3 align="center">🧰 Commonly used tools:</h3>

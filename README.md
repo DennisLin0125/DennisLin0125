@@ -5,10 +5,14 @@
   <img src="https://profile-counter.glitch.me/dennislin0125/count.svg">
   <!-- 網站訪問人數 -->
   <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /> 
+  <!-- 鴨子 -->
+  <img align="right" width="150" src="https://dennislin0125.github.io/asset/myGif/myDuck.gif" />
 </div>
 
+
+
 <!-- 歡迎詞 -->
-<h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1>
+<!-- <h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1> -->
 
 <!-- 打字特效 -->
 <div align="center">
@@ -154,20 +158,31 @@ Windows                  2 hrs 11 mins       ███████████�
 <!-- 特色專案 -->
 <h3 align="left">🔭 I’m currently working on:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&theme=algolia)](https://github.com/DennisLin0125/Vue3)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=algolia)](https://github.com/DennisLin0125/React)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&theme=algolia" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=algolia" />
+</p>
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Vue3&theme=algolia)](https://github.com/DennisLin0125/Vue3)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=React&theme=algolia)](https://github.com/DennisLin0125/React) -->
 
 <!-- 目前學習 -->
 <h3 align="left">🌱 I’m currently learning:</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia)](https://github.com/DennisLin0125/MongoDB_Node_js)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia)](https://github.com/DennisLin0125/Promise)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia" />
+</p>
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=MongoDB_Node_js&theme=algolia)](https://github.com/DennisLin0125/MongoDB_Node_js)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dennislin0125&repo=Promise&theme=algolia)](https://github.com/DennisLin0125/Promise) -->
 
 
 <!-- just img  -->
 <p align="center">
   <!-- 重訓 -->
-  <img src="https://dennislin0125.github.io/asset/myPng/man.png" alt="Man" width="250" height="250" />
+  <!-- <img src="https://dennislin0125.github.io/asset/myPng/man.png" alt="Man" width="250" height="250" /> -->
   <!-- 獎盃 -->
   <img width="150" src="https://dennislin0125.github.io/asset/myGif/beker.gif" />
 </p>
@@ -207,7 +222,7 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visualstudio&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat" />
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,ts,discord,twitter,mongodb,instagram,idea,git" /><br>
+    <img src="https://skillicons.dev/icons?i=c,cpp,javascript,nodejs,python,git,vuejs,react,webpack,vite,ts,mongodb,mysql" /><br>
     <!-- svg -->
     <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
@@ -215,10 +230,12 @@ Windows                  2 hrs 11 mins       ███████████�
     <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
     <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
+    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
     <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
+    <!-- <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br> -->
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /><br>
     <!-- gif -->
     <img height="100" width="100" src="https://dennislin0125.github.io/asset/webp/html.webp">

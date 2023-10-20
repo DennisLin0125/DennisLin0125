@@ -4,8 +4,7 @@
   <img src="https://profile-counter.glitch.me/dennislin0125/count.svg">views
   <!-- 網站訪問人數 -->
   <!-- <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" />  -->
-  <!-- 貓咪 -->
-  <!-- <img align="right" width="" height="150" src="https://dennislin0125.github.io/asset/myGif/hacker_a.gif" /> -->
+
   <!-- 打程式 -->
   <img align="right" width="" height="180" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
 </div>
@@ -184,6 +183,8 @@ Windows                  2 hrs 11 mins       ███████████�
 <p align="center">
   <!-- 重訓 -->
   <!-- <img src="https://dennislin0125.github.io/asset/myPng/man.png" alt="Man" width="250" height="250" /> -->
+  <!-- 貓咪 -->
+  <img width="" height="150" src="https://dennislin0125.github.io/asset/myGif/hacker_a.gif" />
   <!-- 獎盃 -->
   <img width="150" src="https://dennislin0125.github.io/asset/myGif/beker.gif" />
 </p>

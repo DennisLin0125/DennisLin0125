@@ -85,7 +85,7 @@
 
   <tr>
     <td>
-      <img src="svg/metrics.plugin.stars.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.stackoverflow.svg" alt="Metrics" width="400">
     </td>
     <td>
       <img src="svg/metrics.plugin.isocalendar.fullyear.svg" alt="Metrics" width="400">
@@ -106,7 +106,7 @@
       <img src="svg/metrics.plugin.stargazers.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="svg/metrics.plugin.languages.recent.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.topics.icons.svg" alt="Metrics" width="400">
     </td>
   </tr>
 </table>

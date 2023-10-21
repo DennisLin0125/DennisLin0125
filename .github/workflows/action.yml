@@ -198,17 +198,6 @@ jobs:
           plugin_stackoverflow_sections: answers-top
           plugin_stackoverflow_limit: 2
 
-      - name: Contributors and sponsors
-        uses: lowlighter/metrics@latest
-        with:
-          filename: svg/metrics.plugin.people.repository.svg
-          token: ${{ env.GH_TOKEN }}
-          base: ""
-          template: repository
-          repo: metrics
-          plugin_people: yes
-          plugin_people_types: contributors, stargazers, watchers, sponsors
-
       - name: Followers
         uses: lowlighter/metrics@latest
         with:

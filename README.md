@@ -106,7 +106,7 @@
       <img src="svg/metrics.plugin.stargazers.svg" alt="Metrics" width="400">
     </td>
     <td>
-      <img src="svg/metrics.plugin.people.repository.svg" alt="Metrics" width="400">
+      <img src="svg/metrics.plugin.people.followers.svg" alt="Metrics" width="400">
     </td>
   </tr>
 </table>

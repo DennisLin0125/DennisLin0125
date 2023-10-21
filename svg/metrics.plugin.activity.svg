@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="371" class="">
     <defs>
         <style/>
     </defs>
@@ -29,8 +29,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#967539c</div>
-                                        <div class="message">Update action.yml</div>
+                                        <div class="sha">#d9840b7</div>
+                                        <div class="message">modify</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/TypeScript</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#e62ccb8</div>
-                                        <div class="message">Update action.yml</div>
+                                        <div class="sha">#92516d7</div>
+                                        <div class="message">泛型</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/TypeScript</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4197bf8</div>
-                                        <div class="message">Update action.yml</div>
+                                        <div class="sha">#8303d2c</div>
+                                        <div class="message">屬性封裝</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/TypeScript</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#76628b4</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#a06befb</div>
+                                        <div class="message">Interface</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/TypeScript</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#411a0eb</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#4a89ba8</div>
+                                        <div class="message">抽象類</div>
                                     </div>
                                 </div>
                             </section>

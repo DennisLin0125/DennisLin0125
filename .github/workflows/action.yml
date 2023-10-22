@@ -7,7 +7,7 @@ on:
 env:
   GH_TOKEN: ${{ secrets.GH_TOKEN }}
   USER_NAME: DennisLin0125
-  CONFIG_TIMEZONE: Asia/Shanghai
+  CONFIG_TIMEZONE: Etc/GMT-8
 
 jobs:
   github-metrics:

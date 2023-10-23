@@ -49,7 +49,7 @@
 <table>
   <tr>
     <td>
-      <img src="svg/github-metrics.svg" alt="Metrics"  height="400">
+      <img src="svg/github-metrics.svg" alt="Metrics"  height="450">
     </td>
     <td>
       <img src="svg/metrics.plugin.languages.details.svg" alt="Metrics" width="400">

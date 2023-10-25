@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="361" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="378" class="">
     <defs>
         <style/>
     </defs>
@@ -23,14 +23,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ae637f5</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#b0bb98d</div>
+                                        <div class="message">獲取bannerList數據完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#91fc36f</div>
-                                        <div class="message">Update waka-readme.yml</div>
+                                        <div class="sha">#ab47e8e</div>
+                                        <div class="message">匯入字型完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1aeac38</div>
-                                        <div class="message">Update waka-readme.yml</div>
+                                        <div class="sha">#dd473d5</div>
+                                        <div class="message">配置mock數據完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#832cd22</div>
-                                        <div class="message">Update action.yml</div>
+                                        <div class="sha">#1625647</div>
+                                        <div class="message">將params和query參數一起傳給後端路由</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1911238</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#5dacdb9</div>
+                                        <div class="message">typeNav商品分類列表的最佳化</div>
                                     </div>
                                 </div>
                             </section>

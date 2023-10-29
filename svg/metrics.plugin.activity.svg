@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0ecb1fc</div>
+                                        <div class="sha">#e9f22f7</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4702d6d</div>
-                                        <div class="message">分頁器新增active的CSS樣式</div>
+                                        <div class="sha">#ce33006</div>
+                                        <div class="message">放大鏡製作完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#99adfd8</div>
-                                        <div class="message">分頁器新增類別名</div>
+                                        <div class="sha">#9bbbf2a</div>
+                                        <div class="message">放大鏡隨點擊的照片顯示放大區照片</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4f5748d</div>
-                                        <div class="message">分頁器完成動態顯示</div>
+                                        <div class="sha">#b75351f</div>
+                                        <div class="message">產品售賣屬性排他操作</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9daea0a</div>
-                                        <div class="message">分頁器動態展示</div>
+                                        <div class="sha">#a31fdf2</div>
+                                        <div class="message">Detail路由組件動態展示商品售賣屬性完成</div>
                                     </div>
                                 </div>
                             </section>

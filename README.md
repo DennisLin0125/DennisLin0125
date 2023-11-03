@@ -6,7 +6,7 @@
   <!-- <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" />  -->
 
   <!-- 打程式人 -->
-  <img align="right" width="" height="180" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
+  <img align="right" width="" height="220" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
 </div>
 
 

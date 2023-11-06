@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="371" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="375" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#309e8fc</div>
+                                        <div class="sha">#025b4aa</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#bd5a42c</div>
-                                        <div class="message">基本ajax和Vuex封裝完成</div>
+                                        <div class="sha">#febcbaf</div>
+                                        <div class="message">固定取小數點完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1228318</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#2368f74</div>
+                                        <div class="message">基本最大最小值偵測完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue2_shop</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#1e6573b</div>
-                                        <div class="message">導航守衛解決登陸非首頁用戶名會消失的問題</div>
+                                        <div class="sha">#7b626ac</div>
+                                        <div class="message">CAP數值的科學記號完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue2_shop</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#858705a</div>
-                                        <div class="message">退出登陸完成</div>
+                                        <div class="sha">#8620755</div>
+                                        <div class="message">修正上方導航列響應式的問題</div>
                                     </div>
                                 </div>
                             </section>

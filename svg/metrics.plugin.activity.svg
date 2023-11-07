@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#025b4aa</div>
+                                        <div class="sha">#fe08321</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#febcbaf</div>
-                                        <div class="message">固定取小數點完成</div>
+                                        <div class="sha">#0d99070</div>
+                                        <div class="message">T56完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2368f74</div>
-                                        <div class="message">基本最大最小值偵測完成</div>
+                                        <div class="sha">#cff9e45</div>
+                                        <div class="message">T45完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7b626ac</div>
-                                        <div class="message">CAP數值的科學記號完成</div>
+                                        <div class="sha">#b64f716</div>
+                                        <div class="message">T44 完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +109,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8620755</div>
-                                        <div class="message">修正上方導航列響應式的問題</div>
+                                        <div class="sha">#c1edd14</div>
+                                        <div class="message">T43 完成</div>
                                     </div>
                                 </div>
                             </section>

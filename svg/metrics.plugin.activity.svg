@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="371" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="375" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0449e98</div>
+                                        <div class="sha">#30ca1ee</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/VueBattery</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#968b734</div>
-                                        <div class="message">修正輸出時的開關顯示問題</div>
+                                        <div class="sha">#a437f6f</div>
+                                        <div class="message">個人中心二級路由搭建</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#a0083be</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#2727946</div>
+                                        <div class="message">微信支付 2</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/VueBattery</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#feed058</div>
-                                        <div class="message">ChargeDischarge完成</div>
+                                        <div class="sha">#85f0f69</div>
+                                        <div class="message">微信支付 1</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/VueBattery</span>
+                                        <span class="repo">DennisLin0125/Vue2_shop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#9ca6733</div>
-                                        <div class="message">簡化迴圈寫法</div>
+                                        <div class="sha">#1c1269d</div>
+                                        <div class="message">支付頁面中使用ElementUI以及按需引入完成</div>
                                     </div>
                                 </div>
                             </section>

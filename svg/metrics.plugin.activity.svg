@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c00b596</div>
+                                        <div class="sha">#e4bc1f4</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue2_shop</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#29f78c8</div>
-                                        <div class="message">完整項目打包前處裡map文件</div>
+                                        <div class="sha">#6c5ad71</div>
+                                        <div class="message">修改品牌完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue2_shop</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#7218260</div>
-                                        <div class="message">路由懶加載 完成</div>
+                                        <div class="sha">#a406326</div>
+                                        <div class="message">添加品牌完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue2_shop</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6af5a5a</div>
-                                        <div class="message">vee validate 表單驗證完成</div>
+                                        <div class="sha">#9b3d90d</div>
+                                        <div class="message">新增品牌與修改品牌靜態完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue2_shop</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#65dbe93</div>
-                                        <div class="message">複習自定義指令</div>
+                                        <div class="sha">#f1269aa</div>
+                                        <div class="message">品牌列表展示 完成</div>
                                     </div>
                                 </div>
                             </section>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="371" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="375" class="">
     <defs>
         <style/>
     </defs>
@@ -23,33 +23,13 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/VueBattery</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a9ba309</div>
-                                        <div class="message">增加偵測wait</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
                                         <span class="repo">DennisLin0125/DennisLin0125</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c2e779</div>
+                                        <div class="sha">#9689a51</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -63,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/VueBattery</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3be5029</div>
-                                        <div class="message">讓app組件乾淨</div>
+                                        <div class="sha">#1e1bb77</div>
+                                        <div class="message">修正返回按鈕時數據的顯示問題</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/VueBattery</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2c8cb1e</div>
-                                        <div class="message">修正(T-68) Save Model 時存檔會存2個檔案</div>
+                                        <div class="sha">#c33392f</div>
+                                        <div class="message">收集屬性值完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +83,34 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
+                                        <span class="repo">DennisLin0125/vue_backend</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#536388b</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#24db335</div>
+                                        <div class="message">收集屬性名完成</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">DennisLin0125/vue_backend</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#273fdb0</div>
+                                        <div class="message">平台屬性添加的靜態組件完成</div>
                                     </div>
                                 </div>
                             </section>

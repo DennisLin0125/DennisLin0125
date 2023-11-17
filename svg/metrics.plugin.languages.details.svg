@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.6391976540968" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="227.6391976540968" y="0" width="123.0396308893981" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="350.6788285434949" y="0" width="98.10708039293004" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="448.7859089364249" y="0" width="11.21409106357509" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="227.5964934207297" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="227.5964934207297" y="0" width="123.01654913034672" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="350.61304255107643" y="0" width="98.08867588395603" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="448.7017184350325" y="0" width="11.298281564967537" height="8" fill="#41b883"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -71,7 +71,7 @@
                                 Vue
                             </div>
                             <small>
-                                <div>295 kB</div>
+                                <div>297 kB</div>
                             </small>
                         </div>
                     </section>

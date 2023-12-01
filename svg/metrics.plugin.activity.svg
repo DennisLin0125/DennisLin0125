@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="371" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="754" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5bb7c5f</div>
+                                        <div class="sha">#b0fcbe6</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -43,14 +43,110 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue3_backend</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0fb10b6</div>
-                                        <div class="message">路由全部配置完成</div>
+                                        <div class="sha">#4b7a438</div>
+                                        <div class="message">增加test頁面淡入效果</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 34 commits in
+                                        <span class="repo">DennisLin0125/VueBattery</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#640e430</div>
+                                        <div class="message">修改less</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#313f4db</div>
+                                        <div class="message">修改less</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fd9727c</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1890026</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ce18a9d</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e8cfa1b</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57fefd6</div>
+                                        <div class="message">修正lese語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0fe69c</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76505de</div>
+                                        <div class="message">修改less</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5858b77</div>
+                                        <div class="message">修復LESS</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d89f990</div>
+                                        <div class="message">修復less</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#41a76bd</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f2f37f3</div>
+                                        <div class="message">修正less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5f9616</div>
+                                        <div class="message">修改less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35ad02f</div>
+                                        <div class="message">修正語法錯誤</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f39a59e</div>
+                                        <div class="message">修復less語法</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77cf0c4</div>
+                                        <div class="message">less格式化</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cce00af</div>
+                                        <div class="message">修正styleLint版本衝突</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57f6766</div>
+                                        <div class="message">增加less格式化</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#089e49c</div>
+                                        <div class="message">基本格式化配置完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,28 +165,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">test/eslint</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4e61473</div>
-                                        <div class="message">增加download功能</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/DennisLin0125</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#0910a36</div>
-                                        <div class="message">Updated with Dev Metrics</div>
+                                        <div class="sha">#9191e0d</div>
+                                        <div class="message">增加AH的轉場效果</div>
                                     </div>
                                 </div>
                             </section>
@@ -109,8 +185,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">test/eslint</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c6b7035</div>
-                                        <div class="message">修改名稱</div>
+                                        <div class="sha">#bd944c5</div>
+                                        <div class="message">增加過渡效果</div>
                                     </div>
                                 </div>
                             </section>

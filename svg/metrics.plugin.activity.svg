@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0917874</div>
+                                        <div class="sha">#fab3864</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -43,14 +43,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue3_backend</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">tets/datalog</span></div>
                                     <div class="commit">
-                                        <div class="sha">#99dfba3</div>
-                                        <div class="message">清除分類數據完成</div>
+                                        <div class="sha">#e4c5e56</div>
+                                        <div class="message">檢查大小值</div>
                                     </div>
                                 </div>
                             </section>
@@ -63,14 +63,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue3_backend</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">tets/datalog</span></div>
                                     <div class="commit">
-                                        <div class="sha">#964f2c8</div>
-                                        <div class="message">添加新的屬性功能完成</div>
+                                        <div class="sha">#b27c81e</div>
+                                        <div class="message">logdata功能完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -83,14 +83,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue3_backend</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">tets/datalog</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8393b43</div>
-                                        <div class="message">添加與修改屬性靜態組件完成</div>
+                                        <div class="sha">#2f9133c</div>
+                                        <div class="message">增加logdata時禁能效果</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue3_backend</span>
+                                        <span class="repo">DennisLin0125/VueBattery</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
+                                    <div>on branch <span class="code">tets/datalog</span></div>
                                     <div class="commit">
-                                        <div class="sha">#24fa29c</div>
-                                        <div class="message">已有屬性值展示業務完成</div>
+                                        <div class="sha">#e49b75d</div>
+                                        <div class="message">獲得Ques和Oper的State</div>
                                     </div>
                                 </div>
                             </section>

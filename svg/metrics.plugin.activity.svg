@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="375" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="371" class="">
     <defs>
         <style/>
     </defs>
@@ -29,7 +29,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5f02865</div>
+                                        <div class="sha">#07b22d5</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
@@ -49,8 +49,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#15feaf7</div>
-                                        <div class="message">刪除已有菜單完成</div>
+                                        <div class="sha">#b092efb</div>
+                                        <div class="message">主題顏色切換完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,8 +69,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#4a69966</div>
-                                        <div class="message">添加與更新菜單完成</div>
+                                        <div class="sha">#d4bce14</div>
+                                        <div class="message">暗黑模式切換完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -89,8 +89,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2aec884</div>
-                                        <div class="message">添加菜單組件完成</div>
+                                        <div class="sha">#af9e81f</div>
+                                        <div class="message">首頁完成</div>
                                     </div>
                                 </div>
                             </section>
@@ -103,14 +103,14 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
-                                        <span class="repo">DennisLin0125/Vue3_backend</span>
+                                        <span class="repo">DennisLin0125/DennisLin0125</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#3725948</div>
-                                        <div class="message">菜單管理展示數據完成</div>
+                                        <div class="sha">#5f02865</div>
+                                        <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
                             </section>

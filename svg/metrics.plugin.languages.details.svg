@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="220.34729863531072" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="220.34729863531072" y="0" width="121.7124655337425" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="342.0597641690532" y="0" width="95.05247321230112" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="437.11223738135436" y="0" width="22.88776261864567" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="204.46429313866525" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="204.46429313866525" y="0" width="112.93922542117724" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="317.40351855984255" y="0" width="88.2009303803674" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="405.6044489402099" y="0" width="54.39555105979008" height="8" fill="#DA5B0B"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -66,12 +66,12 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#DA5B0B" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                Vue
+                                Jupyter Notebook
                             </div>
                             <small>
-                                <div>622 kB</div>
+                                <div>1.60 MB</div>
                             </small>
                         </div>
                     </section>

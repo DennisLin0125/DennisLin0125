@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.6523889104959" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="173.6523889104959" y="0" width="112.65407874580947" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="286.30646765630536" y="0" width="95.91976180793434" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="382.2262294642396" y="0" width="77.7737705357603" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="172.01093138481085" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="172.01093138481085" y="0" width="115.72850502239673" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="287.73943640720756" y="0" width="95.01307566402701" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="382.7525120712346" y="0" width="77.24748792876544" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -60,7 +60,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>3.89 MB</div>
+                                <div>4.04 MB</div>
                             </small>
                         </div>
                         <div class="field language details">

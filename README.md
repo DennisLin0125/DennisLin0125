@@ -1,15 +1,19 @@
 <!--Number of visits-->
-<div align="left">
+<div style="display: flex; align-items: center;">
   <!-- 網站訪問人數 -->
-  <img src="https://profile-counter.glitch.me/dennislin0125/count.svg">views
-  <!-- 網站訪問人數 -->
-  <!-- <img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" />  -->
+  <span><img src="https://profile-counter.glitch.me/dennislin0125/count.svg">views</span>&emsp;
 
+  <!-- 網站訪問人數 -->
+  <span><img src="https://komarev.com/ghpvc/?username=dennislin0125&label=Profile%20views&color=0e75b6&style=flat" alt="dennislin0125" /></span>&emsp;
+
+  <!-- wakatime -->
+  <a href="https://wakatime.com/@dennisLin"><img src="https://wakatime.com/badge/user/018b4582-15c3-41c8-a473-da84b127d1b3.svg" /></a>&emsp;
+</div>
+
+<div>
   <!-- 打程式人 -->
   <img align="right" width="" height="290" src="https://dennislin0125.github.io/asset/myGif/code.gif" />
 </div>
-
-
 
 <!-- 歡迎詞 -->
 <!-- <h1 align="center">I'm a passionate frontend developer from Taiwan :relaxed:</h1> -->
@@ -27,7 +31,11 @@
 </picture>
 
 <!-- wakatime -->
-### 📊 WakaTime
+### 📊 WakaTime&emsp;
+
+<i>
+
+</i>
 
 <picture>
   <source
@@ -43,7 +51,6 @@
 
 <!-- GitHub 活動統計圖 -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dennislin0125&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!-- 展示 table-->
 <table>
@@ -112,7 +119,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
@@ -120,7 +127,8 @@
 🌃 Evening                958 commits         ██████████████░░░░░░░░░░░   55.47 % 
 🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
@@ -132,8 +140,7 @@ Saturday                 264 commits         ████░░░░░░░�
 Sunday                   447 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Taipei
@@ -153,10 +160,8 @@ VS Code                  49 mins             █░░░░░░░░░░�
 Windows                  16 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
-
  Last Updated on 28/08/2024 16:26:35 UTC
 <!--END_SECTION:waka-->
-
 
 <!-- 特色專案 -->
 <h3 align="left">🔭 Currently working on:</h3>
@@ -186,7 +191,7 @@ Windows                  16 hrs 39 mins      ███████████�
 
 <!-- 💪 Often use: -->
 <h3 align="center">💪 Often use:</h3>
-<p align="center"> 
+<p align="center">
   <span >
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
@@ -204,30 +209,30 @@ Windows                  16 hrs 39 mins      ███████████�
     <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
   </span>
 </p>
-   
+
 <!-- 🧠 Languages -->
 <h3 align="center">🧠 Languages:</h3>
 <p align="center">
   <span>
     <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" /> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" /> 
+    <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat" />
-    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" /> 
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" /> 
+    <img src="https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat" />
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat" />
     <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff&style=flat" />
     <!-- <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat" /> -->
-  </span> 
+  </span>
 </p>
 
 <!--🧰 Commonly used tools -->
 <h3 align="center">🧰 Commonly used tools:</h3>
-<p align="center"> 
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flatt" />
   <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat" />
@@ -239,7 +244,7 @@ Windows                  16 hrs 39 mins      ███████████�
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" /> 
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 50px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" />
@@ -276,7 +281,6 @@ Windows                  16 hrs 39 mins      ███████████�
   <img width="150" src="https://dennislin0125.github.io/asset/myPng/right.png" />
 </div>
 
-
 <div align="center">
   <p>
     <!-- 公開倉庫數量、貢獻度、追蹤者數量 -->
@@ -287,14 +291,10 @@ Windows                  16 hrs 39 mins      ███████████�
 </div>
 <!-- 程式種類統計 -->
 
-
 <!--獎盃-->
-<div align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=dennislin0125&column=-1&theme=darkhub" /> 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dennislin0125&column=-1&theme=darkhub" />
 </div>
-
-
-
 
 <!--
 **DennisLin0125/DennisLin0125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

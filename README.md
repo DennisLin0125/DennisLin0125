@@ -146,18 +146,17 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-HTML                     12 mins             █████████████████░░░░░░░░   66.28 % 
-Markdown                 6 mins              ████████░░░░░░░░░░░░░░░░░   33.72 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 03/12/2025 16:37:37 UTC
+ Last Updated on 04/12/2025 05:26:43 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

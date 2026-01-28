@@ -146,17 +146,17 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   22 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  22 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/01/2026 16:38:44 UTC
+ Last Updated on 28/01/2026 05:35:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

@@ -119,48 +119,8 @@
 </table>
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-🌆 Daytime                466 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
-🌃 Evening                955 commits         ██████████████░░░░░░░░░░░   55.39 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
-Tuesday                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
-Wednesday                184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
-Friday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-Saturday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Sunday                   447 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-C                        9 hrs 4 mins        █████████████████████████   98.58 % 
-D                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-Makefile                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔥 Editors: 
-VS Code                  9 hrs 11 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  9 hrs 11 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 08:48:00 UTC
+ Last Updated on 28/05/2026 18:40:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

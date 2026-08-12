@@ -148,23 +148,23 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               28 mins             ██████████████░░░░░░░░░░░   54.66 % 
-HTML                     21 mins             ██████████░░░░░░░░░░░░░░░   40.69 % 
-JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+JavaScript               28 mins             █████████████░░░░░░░░░░░░   51.89 % 
+HTML                     22 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  52 mins             █████████████████████████   98.76 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+VS Code                  55 mins             █████████████████████████   98.82 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (22.05%)
+⏱ AI Coding Time: 11 mins (20.86%)
 
 ✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
 
@@ -184,7 +184,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 11/08/2026 17:03:07 UTC
+ Last Updated on 12/08/2026 06:19:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

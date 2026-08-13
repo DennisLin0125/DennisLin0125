@@ -148,43 +148,40 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               28 mins             █████████████░░░░░░░░░░░░   51.89 % 
-HTML                     22 mins             ██████████░░░░░░░░░░░░░░░   39.81 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JavaScript               22 mins             ████████████░░░░░░░░░░░░░   46.17 % 
+HTML                     22 mins             ███████████░░░░░░░░░░░░░░   45.04 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
 
 🔥 Editors: 
-VS Code                  55 mins             █████████████████████████   98.82 % 
-Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+VS Code                  48 mins             █████████████████████████   98.67 % 
+Codex Vscode             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 mins (20.86%)
+⏱ AI Coding Time: 8 mins (17.53%)
 
 ✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
 
-🔤 797,910 Input Tokens, 16,619 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $4.49 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 4 AI Prompts
-
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🧠 1 AI Sessions, 1 AI Prompts
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 26 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 17 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/08/2026 17:02:42 UTC
+ Last Updated on 13/08/2026 06:21:49 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

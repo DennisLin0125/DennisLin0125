@@ -148,40 +148,25 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-JavaScript               22 mins             ████████████████████░░░░░   80.19 % 
-JSON                     3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+JSON                     2 mins              █████████████████░░░░░░░░   66.13 % 
+HTML                     0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
+JavaScript               0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
 
 🔥 Editors: 
-VS Code                  27 mins             ████████████████████████░   97.68 % 
-Codex Vscode             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 mins (30.54%)
-
-✍️ 0 lines written by AI, 30 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 17 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 17/08/2026 16:35:45 UTC
+ Last Updated on 18/08/2026 05:35:44 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

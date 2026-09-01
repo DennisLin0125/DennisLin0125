@@ -119,7 +119,7 @@
 </table>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-35%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -148,23 +148,42 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        16 mins             █████████████████████████   100.00 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             ████████████████████░░░░░   79.18 % 
+Codex Vscode             3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  16 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 16 mins (98.9%)
+
+✍️ 36 lines written by AI, 5 lines written by hand (87.8% AI-written)
+
+🔤 88,162 Input Tokens, 5,347 Output Tokens
+
+💵 $0.58 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 5 AI Prompts
+
+GPT                      36 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 87.8% of written lines came from AI
+📝 Concise Prompter — average 34 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 12.2% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 09:53:09 UTC
+ Last Updated on 01/09/2026 19:20:19 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

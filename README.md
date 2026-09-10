@@ -148,44 +148,39 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C                        10 mins             ██████████████░░░░░░░░░░░   54.57 % 
-Markdown                 5 mins              ███████░░░░░░░░░░░░░░░░░░   26.44 % 
-Other                    3 mins              █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+C                        4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  10 mins             ██████████████░░░░░░░░░░░   54.90 % 
-Codex Vscode             8 mins              ███████████░░░░░░░░░░░░░░   45.10 % 
+Codex Vscode             4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 mins (72.03%)
+⏱ AI Coding Time: 4 mins (100.0%)
 
-✍️ 99 lines written by AI, 9 lines written by hand (91.67% AI-written)
+✍️ 81 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 245,292 Input Tokens, 15,743 Output Tokens
+🔤 161,695 Input Tokens, 9,123 Output Tokens
 
-💵 $2.03 Estimated AI Cost This Week
+💵 $1.46 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 6 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-GPT                      99 lines            █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      81 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.67% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 88 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 8.33% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/09/2026 19:12:44 UTC
+ Last Updated on 10/09/2026 09:29:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

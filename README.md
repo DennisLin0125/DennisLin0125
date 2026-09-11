@@ -148,39 +148,39 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C                        4 mins              █████████████████████████   100.00 % 
+C                        1 min               █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Codex Vscode             4 mins              █████████████████████████   100.00 % 
+Codex Vscode             1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 81 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 23 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 161,695 Input Tokens, 9,123 Output Tokens
+🔤 44,966 Input Tokens, 2,584 Output Tokens
 
-💵 $1.46 Estimated AI Cost This Week
+💵 $0.33 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      81 lines            █████████████████████████   100.00 % 
+GPT                      23 lines            █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 88 characters per prompt
+📝 Concise Prompter — average 76 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 19:04:51 UTC
+ Last Updated on 11/09/2026 09:28:13 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

@@ -148,23 +148,23 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C                        3 hrs 24 mins       ████████████████░░░░░░░░░   62.25 % 
-Markdown                 1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Other                    18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
+C                        3 hrs 2 mins        ███████████████░░░░░░░░░░   59.61 % 
+Markdown                 1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 26 mins       ████████████████░░░░░░░░░   63.00 % 
-Codex Vscode             2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.00 % 
+VS Code                  3 hrs 5 mins        ███████████████░░░░░░░░░░   60.40 % 
+Codex Vscode             2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.60 % 
 
 💻 Operating System: 
-Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (41.77%)
+⏱ AI Coding Time: 2 hrs 17 mins (44.7%)
 
 ✍️ 237 lines written by AI, 10 lines written by hand (95.95% AI-written)
 
@@ -184,7 +184,7 @@ GPT                      237 lines           ███████████�
 ```
 
 
- Last Updated on 21/09/2026 10:34:33 UTC
+ Last Updated on 21/09/2026 20:22:05 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

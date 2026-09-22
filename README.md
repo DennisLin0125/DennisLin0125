@@ -148,25 +148,25 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C                        3 hrs 2 mins        ███████████████░░░░░░░░░░   59.61 % 
-Markdown                 1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
-Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+C                        2 hrs 15 mins       █████████████░░░░░░░░░░░░   52.23 % 
+Markdown                 1 hr 10 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
+Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Other                    18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 5 mins        ███████████████░░░░░░░░░░   60.40 % 
-Codex Vscode             2 hrs 1 min         ██████████░░░░░░░░░░░░░░░   39.60 % 
+VS Code                  2 hrs 17 mins       █████████████░░░░░░░░░░░░   53.17 % 
+Codex Vscode             2 hrs 1 min         ████████████░░░░░░░░░░░░░   46.83 % 
 
 💻 Operating System: 
-Windows                  5 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  4 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 17 mins (44.7%)
+⏱ AI Coding Time: 2 hrs 17 mins (52.86%)
 
-✍️ 237 lines written by AI, 10 lines written by hand (95.95% AI-written)
+✍️ 237 lines written by AI, 9 lines written by hand (96.34% AI-written)
 
 🔤 274,343 Input Tokens, 40,731 Output Tokens
 
@@ -177,14 +177,14 @@ Windows                  5 hrs 6 mins        ███████████�
 GPT                      237 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.95% of written lines came from AI
+🤖 AI-Driven — 96.34% of written lines came from AI
 📝 Concise Prompter — average 31 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🔍 Hands-On Reviewer — 74.79% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 74.76% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/09/2026 09:46:22 UTC
+ Last Updated on 22/09/2026 19:41:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

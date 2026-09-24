@@ -121,8 +121,71 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-4%20hrs%2034%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 23/09/2026 19:37:06 UTC
+```text
+🌞 Morning                263 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
+🌆 Daytime                466 commits         ███████░░░░░░░░░░░░░░░░░░   27.03 % 
+🌃 Evening                955 commits         ██████████████░░░░░░░░░░░   55.39 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   237 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.75 % 
+Tuesday                  294 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
+Wednesday                184 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Thursday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Friday                   145 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+Saturday                 264 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Sunday                   447 commits         ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+C                        2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.68 % 
+Python                   2 hrs 1 min         █████████░░░░░░░░░░░░░░░░   36.97 % 
+Markdown                 1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Other                    8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+
+🔥 Editors: 
+Codex Vscode             3 hrs 19 mins       ███████████████░░░░░░░░░░   60.73 % 
+VS Code                  2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   38.55 % 
+PyCharm                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+
+💻 Operating System: 
+Windows                  5 hrs 28 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 3 hrs 34 mins (65.35%)
+
+✍️ 588 lines written by AI, 10 lines written by hand (98.33% AI-written)
+
+🔤 548,468 Input Tokens, 60,916 Output Tokens
+
+💵 $26.46 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 50 AI Prompts
+
+GPT                      588 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.33% of written lines came from AI
+📝 Concise Prompter — average 36 characters per prompt
+🔁 Iterative Prompter — average 25 prompts per session
+🔍 Hands-On Reviewer — 54.42% of changed lines were hand-edited
+```
+
+
+ Last Updated on 24/09/2026 09:49:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->

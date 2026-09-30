@@ -148,43 +148,23 @@ Sunday                   447 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Python                   1 hr 26 mins        ██████████████████████░░░   88.72 % 
-C                        6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 28 mins        ███████████████████████░░   90.18 % 
-VS Code                  7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-PyCharm                  2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 28 mins (90.49%)
-
-✍️ 351 lines written by AI, 1 lines written by hand (99.72% AI-written)
-
-🔤 317,210 Input Tokens, 22,343 Output Tokens
-
-💵 $11.38 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 16 AI Prompts
-
-GPT                      351 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.72% of written lines came from AI
-📝 Concise Prompter — average 46 characters per prompt
-🔁 Iterative Prompter — average 16 prompts per session
-🚀 High AI Trust — 0.28% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 30/09/2026 11:03:26 UTC
+ Last Updated on 30/09/2026 20:42:27 UTC
 <!--END_SECTION:waka-->
 
 <!-- 特色專案 -->
